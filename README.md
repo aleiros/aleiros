@@ -43,5 +43,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <h2>Estatísticas do GitHub</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleiros&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleiros&layout=compact&langs_count=7&theme=dark)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleiros&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleiros&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleiros&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleiros&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=aleiros&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
